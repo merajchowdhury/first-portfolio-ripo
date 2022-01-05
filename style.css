@@ -5,3 +5,13 @@ h1{
 .color{
     color:violet;
 }
+section{
+    display: flex;
+}
+.love{
+    width:50%;
+    padding-left:5%;
+}
+.love img{
+    width:70%;
+}
